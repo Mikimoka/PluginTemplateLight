@@ -1,5 +1,5 @@
 /*
- * jos joku oikeesti haluu kopioita tai nähdä minun VERY basic harjoiitus koodin siitä vaan kattelee tms.
+ * jos joku oikeesti haluu kopioita tai nähdä minun VERY basic harjoitus koodin siitä vaan kattelee tms.
  * - Mikimoka
  * Plugin toimii 1.17.1 ainakin.
  *
@@ -17,6 +17,8 @@ public final class PluginTemplateLight extends SimplePlugin {
 
 	//jos laittaa tänne variable ne ovat fieldejä
 	//int omppu = 1;
+	//plaha plka
+	//psadads
 
 	/**
 	 * JAVADOCCI heeh
