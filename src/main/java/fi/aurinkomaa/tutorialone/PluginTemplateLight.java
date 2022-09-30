@@ -19,6 +19,7 @@ public final class PluginTemplateLight extends SimplePlugin {
 	//int omppu = 1;
 	//plaha plka
 	//psadads
+	//commentti line 2 githuppi testi
 
 	/**
 	 * JAVADOCCI heeh
